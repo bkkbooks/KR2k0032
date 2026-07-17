@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2k0032_000.yaml, hash: 'sha256:2e41dbd1d5013fc25e56b26f40d149f57813022408b1c7404a1233bfa8bae05f'}
   - {seq: 1, filename: KR2k0032_001.yaml, hash: 'sha256:66ae0666edcbdb7b474050d6ba16f3e5954f35032eee6b4b8442b5f5f85b1219'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0032_000.markers.yaml, hash: 'sha256:fae2b75c9e3b3ba9d91dca746b0eaae143181abcb4eebaad924e5dac98a3629e'}
-  - {seq: 1, role: markers, filename: assets/KR2k0032_001.markers.yaml, hash: 'sha256:e15ce7df7a716a380d3050a1ca8afefa88bb8c972986b06551ff644a9c1d86da'}
+  - {seq: 0, role: markers, filename: assets/KR2k0032_000.markers.yaml, hash: 'sha256:5d8d278c3cb192f44a6dcfc2dd169796b1262998210013881a13b156b39cba87'}
+  - {seq: 1, role: markers, filename: assets/KR2k0032_001.markers.yaml, hash: 'sha256:561ad99ff141a83edcf9f37b6fe2a190a4f7079e121b8d01c619a72c739baa5c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -66,7 +66,7 @@ table_of_contents:
   label: 嶺海輿圖
   type: section
   level: 1
-hash: sha256:c8b1f2fe2ec7e74cedc4c5faa0b749cbbd30ce36777efc776319743fa5b2e919
+hash: sha256:8955a5c0cceae41645100e2d3c58d96a03c2bdebdb278eb393e998a195545f6d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
